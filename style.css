@@ -1,0 +1,134 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    background-color: #F0FFF0;
+    padding-bottom: 70px;
+}
+.logo{
+    width: 230px;
+    height: 70px;
+}
+.btn{
+    padding: 9px 28px;
+    width: 110px;
+    height: 43px;
+    left: 1201px;
+    top: 25px;
+    background: #21B573;
+    border-radius: 33px;
+    color: white;
+}
+.learn{
+    
+    width: 405px;
+    height: 140px;
+    left: 205px;
+    top: 212px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 70px;
+    color: #000000;
+}
+span{
+    color: #21B573;
+}
+.text{
+    padding-top: 100px;
+}
+#lit-image{
+    width: 66px;
+    height: 85px;
+    margin-bottom: 20px;
+}
+.topic{
+    margin-top: 50px;
+    border: none;
+    width: 270px;
+    height: 270px;
+    background-color: #F8FFFB;
+    border-radius: 10px;
+}
+#topic{
+    background-color: white;
+    box-shadow: 5px 5px 20px rgb(221, 221, 221);
+}
+.course{
+    text-align: center;
+    color: #413960;
+    font-size: 36px;
+    margin-bottom: 50px;
+    
+    font-weight: bold;
+}
+.third{
+    margin-top: 100px;
+}
+#psyco{
+    padding: 15px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 20px rgb(221, 221, 221);
+    border-radius: 18px ;
+}
+.card-title{
+    font-size: 24px;
+    font-weight: 700;
+}
+.butnn{
+    width: 150px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.calender{
+    width: 18px;
+    height: 20px;
+}
+.pic{
+    width: 24px;
+    height: 24px;
+    margin-left: 65px;
+}
+.testimonial{
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 50px;
+    margin-top: 70px;
+    font-weight: 700;
+    color: #000000;
+}
+#man{
+    margin-left: 200px;
+}
+.man-text{
+    margin-left: 413px;
+    margin-top: -100px;
+}
+.footer{
+    color: white;
+    background-color: #282531;
+    width: auto;
+    height: 400px;
+    margin-top: 100px;
+}
+.last-link{
+    text-decoration: none;
+    color: white;
+}
+.courses{
+    padding-top: 80px;
+    padding-left: 170px;
+    font-size: 16px;
+}
+#millions{
+    margin-top: 70px;
+    margin-left: 130px;
+}
+.last-link:hover{
+    text-decoration: none;
+    color: aqua;
+}
